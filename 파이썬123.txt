@@ -1,0 +1,27 @@
+>>> price = 10001
+>>> if price >= 0 and price <= 1000:
+	print('물약주세여')
+elif price > 1000 and price <= 2000:
+	print('화살주세요')
+elif price > 2000 and price <= 3000:
+	print('주문서주세요')
+elif price > 3000 and price <= 4000:
+	print('장갑주세요')
+elif price > 4000 and price <= 5000:
+	print('신발주세요')
+elif price > 5000 and price <= 6000:
+	print('바지주세요')
+elif price > 6000 and price <= 7000:
+	print('갑옷주세요')
+elif price > 7000 and price <= 8000:
+	print('방패주세요')
+elif price > 8000 and price <= 9000:
+	print('활 주세요')
+elif price > 9000 and price <= 10000:
+	print('칼 주세요')
+elif price > 10000:
+	print('다음에 올게요')
+
+	
+다음에 올게요
+>>> 
